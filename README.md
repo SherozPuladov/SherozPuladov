@@ -1,19 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sheroz Puladov
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Шероз!
 ======================================================================================================================================
 
 Backend Developer
 -----------------
 
-I am a backend developer who works with ASP.NET, Razor, Blazor and e.t.c.
+Я веб-разработчик, работающий с ASP.NET Core, ASP.NET Core MVC, Razor, Blazor, Blazor WebAssembly и т. д.
 
-* 🌍  I'm based in Dushanbe/Tajikistan/Asia
-* 🖥️  See my portfolio at [GitHub Portfolio](http://https://github.com/SherozPuladov)
-* ✉️  You can contact me at [sherozpulatov3@gmail.com](mailto:sherozpulatov3@gmail.com)
-* 🧠  I'm learning Creating an E - Commerse web suites
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I Am Batman, Tell Everyone
+* 🌍  Я живу в Душанбе/Таджикистан
+* 🖥️  Смотрите мое портфолио на [GitHub Portfolio](http://https://github.com/SherozPuladov)
+* ✉️  Вы можете связаться со мной по [sherozpulatov3@gmail.com](mailto:sherozpulatov3@gmail.com)
+* 🧠  Я учусь на Создание веб-сайтов электронной коммерции
+* 🤝  Я открыт для сотрудничества в проектах
 
-### Skills
+### Навыки
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -30,11 +29,11 @@ I am a backend developer who works with ASP.NET, Razor, Blazor and e.t.c.
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
-### Socials
+### Социальные сети
 
 <p align="left"> <a href="https://discord.com/users/Sheroz#8360" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/SherozPuladov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21289550/sheroz-puladov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Значки
 
 <b>My GitHub Stats</b>
 
