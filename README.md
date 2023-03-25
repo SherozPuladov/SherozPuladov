@@ -31,7 +31,17 @@
 
 ### Социальные сети
 
-<p align="left"> <a href="https://discord.com/users/Sheroz#8360" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/SherozPuladov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21289550/sheroz-puladov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://discord.com/users/Sheroz#8360" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.github.com/SherozPuladov" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.stackoverflow.com/users/21289550/sheroz-puladov" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+  </a>
+</p>
 
 ### Пройденные курсы
 
@@ -41,6 +51,7 @@
 * NP - трудные алгоритмы
 * ASP.NET Core 6
 * ASP.NET Core 6 Course MVC Blazor Razor EF Core
+* C# and Visual Studio Productivity Masterclass
 
 
 ### Значки
