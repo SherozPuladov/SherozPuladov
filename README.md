@@ -37,6 +37,11 @@
 * ***EF CORE*** - TodoApi, MVCLibrary, RazorPizzeria, IdentityApp, (и т.д.)
 * ***MS SQL SERVER*** - IdentityApp, RazorPizzeria, ShoppingListApi (и т.д.)
 * ***MONGO DB*** - Catalog
+* ***REST API*** - 
+* ***CRUD*** - 
+* ***LINQ*** - 
+* ***CKEDITOR*** - MyCompany
+* ***BOOTSTRAP*** - Все проекты были сделаны в Bootstrap
 
 ### Социальные сети
 
