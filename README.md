@@ -1,10 +1,10 @@
 Привет, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Шероз!
 ======================================================================================================================================
 
-Веб Разработчик
+Начинающий Веб Разработчик
 -----------------
 
-Я веб-разработчик, работающий с ASP.NET Core, ASP.NET Core MVC, Razor Pages, Blazor, Blazor WebAssembly. Знаю языки программирования C#, C++ и Python. Есть навыки решения проблем и аналитические способности. Имеется опыт разработки сайтов электронной коммерции. Есть опыт использования чужого кода в своем собственном проекте и публикации его в Azure. Работал с EF Core в сочетании с MS SQL Server и MongoDB. Знаком с принципом SOLID и его применением.
+Я начинающий веб-разработчик, работающий с ASP.NET Core, ASP.NET Core MVC, Razor Pages, Blazor, Blazor WebAssembly. Знаю языки программирования C#, C++ и Python. Есть навыки решения проблем и аналитические способности. Имеется опыт разработки сайтов электронной коммерции. Есть опыт использования чужого кода в своем собственном проекте и публикации его в Azure. Работал с EF Core в сочетании с MS SQL Server и MongoDB. Знаком с принципом SOLID и его применением.
 
 * 🌍  Я живу в Душанбе/Таджикистан
 * 🖥️  Смотрите мое портфолио на [GitHub Portfolio](http://https://github.com/SherozPuladov)
@@ -28,6 +28,15 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
+
+* ***ASP.NET CORE*** - Weather, Catalog, FinanceNewsTicker (и т.д.)
+* ***ASP.NET CORE MVC*** - MVCLibrary, FirstMVCApp, MyCompany
+* ***RAZOR PAGES*** - RazorPizzeria, IdentityApp, FinanceNewsTicker
+* ***BLAZOR*** - FirstBlazorApp
+* ***BLAZOR WEBASSEMBLY*** - TicTacToe, FirstBlazorApp
+* ***EF CORE*** - TodoApi, MVCLibrary, RazorPizzeria, IdentityApp, (и т.д.)
+* ***MS SQL SERVER*** - IdentityApp, RazorPizzeria, ShoppingListApi (и т.д.)
+* ***MONGO DB*** - Catalog
 
 ### Социальные сети
 
