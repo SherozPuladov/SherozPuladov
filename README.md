@@ -42,6 +42,8 @@
 * ***LINQ*** - 
 * ***CKEDITOR*** - MyCompany
 * ***BOOTSTRAP*** - Все проекты были сделаны в Bootstrap
+* ***FIGMA*** - FoodMarket, NIIAS, VipAudit, VseHamovniki, WAP
+* ***PHOTOSHOP*** - EvilGames, BrookeLark
 
 ### Социальные сети
 
