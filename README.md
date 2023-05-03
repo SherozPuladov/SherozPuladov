@@ -35,13 +35,17 @@
 * ***BLAZOR*** - FirstBlazorApp
 * ***BLAZOR WEBASSEMBLY*** - TicTacToe, FirstBlazorApp
 * ***EF CORE*** - TodoApi, MVCLibrary, RazorPizzeria, IdentityApp, (и т.д.)
+
 * ***MS SQL SERVER*** - IdentityApp, RazorPizzeria, ShoppingListApi (и т.д.)
 * ***MONGO DB*** - Catalog
+
 * ***REST API*** - 
 * ***CRUD*** - 
 * ***LINQ*** - 
+
 * ***CKEDITOR*** - MyCompany
 * ***BOOTSTRAP*** - Все проекты были сделаны в Bootstrap
+
 * ***FIGMA*** - FoodMarket, NIIAS, VipAudit, VseHamovniki, WAP
 * ***PHOTOSHOP*** - EvilGames, BrookeLark
 
