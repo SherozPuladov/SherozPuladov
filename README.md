@@ -44,10 +44,6 @@
 <!-- -->
 * ***PHOTOSHOP*** - EvilGames, BrookeLark
 * ***FIGMA*** - FoodMarket, NIIAS, VipAudit, VseHamovniki, WAP
-<!-- -->
-* ***REST API*** - 
-* ***LINQ*** - 
-* ***CRUD*** - 
 
 ### Социальные сети
 
