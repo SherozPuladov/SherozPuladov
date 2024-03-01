@@ -29,8 +29,8 @@ Godot Разработчик
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
-* ***Godot*** - The Curse of Hardcore
-* ***Unity*** - RoomSpace AR, Weirdness: Alpha Prototype
+* ***GODOT*** - The Curse of Hardcore
+* ***UNITY*** - RoomSpace AR, Weirdness: Alpha Prototype
 * ***ASP.NET CORE*** - Weather, Catalog, FinanceNewsTicker (и т.д.)
 * ***ASP.NET CORE MVC*** - MVCLibrary, FirstMVCApp, MyCompany
 * ***RAZOR PAGES*** - RazorPizzeria, IdentityApp, FinanceNewsTicker
