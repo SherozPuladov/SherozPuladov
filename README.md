@@ -13,7 +13,8 @@ Dushanbe, Tajikistan
 
 ### Contact
 Email: sherozpulatov3@gmail.com  
-GitHub: https://github.com/SherozPuladov  
+GitHub: https://github.com/SherozPuladov
+LinkedIn: https://www.linkedin.com/in/sherozpulatov/
 
 ---
 
@@ -40,7 +41,7 @@ GitHub: https://github.com/SherozPuladov
 - MySQL
 
 ### Game Development
-- Godot (1 year experience)
+- Godot
 - Unity
 - Construct 3
 
