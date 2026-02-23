@@ -12,9 +12,9 @@ Strong foundation in C# and .NET ecosystem, experience designing and implementin
 Dushanbe, Tajikistan  
 
 ### Contact
-Email: sherozpulatov3@gmail.com  
-GitHub: https://github.com/SherozPuladov
-LinkedIn: https://www.linkedin.com/in/sherozpulatov/
+- Email: sherozpulatov3@gmail.com  
+- GitHub: https://github.com/SherozPuladov
+- LinkedIn: https://www.linkedin.com/in/sherozpulatov
 
 ---
 
