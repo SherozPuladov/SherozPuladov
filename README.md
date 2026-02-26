@@ -2,14 +2,11 @@
 
 ## Web & Game Developer
 
-Web and game developer with 1 year of commercial-level game development experience (Godot, Unity, Construct 3) and practical experience building web applications with ASP.NET Core.
+Web and game developer with 1 year of commercial game development experience (Godot, Unity, Construct 3) and practical experience building web applications with ASP.NET Core.
 
 Strong foundation in C# and .NET ecosystem, experience designing and implementing full-stack applications, working with relational and NoSQL databases, and deploying applications to Azure. Familiar with SOLID principles, clean architecture practices, and structured problem-solving.
 
 ---
-
-### Location
-Dushanbe, Tajikistan  
 
 ### Contact
 - Email: sherozpulatov3@gmail.com  
